@@ -1,6 +1,6 @@
-### hi, i'm areeta! 🤩
+### Hi, I'm Areeta! 🤩
 
-currently, i'm a mlh fall fellow in their externship track! feel free to check out my website at http://areetawong.com/!
+Currently, I'm a [!MLH Fall Fellow](https://fellowship.mlh.io/) in their Externship track! Feel free to check out my website at http://areetawong.com/!
 
 [![Areeta's github stats](https://github-readme-stats.vercel.app/api?username=areetaw&hide=stars&show_icons=true&count_private=true&title_color=898cae&icon_color=898cae)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areetaw&layout=compact&title_color=898cae)](https://github.com/anuraghazra/github-readme-stats)
